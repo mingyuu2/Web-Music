@@ -1,0 +1,13 @@
+{
+  "name": "Web-Music",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "repository": "https://github.com/mingyuu2/Web-Music.git",
+  "author": "mkmg0109@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "youtube-dl-exec": "^2.1.10"
+  }
+}
